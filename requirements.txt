@@ -3,6 +3,7 @@ gunicorn
 opencv-python-headless
 numpy
 pandas
+matplotlib
 Pillow
 pandas
 openpyxl
